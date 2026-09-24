@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-howardcounty",
   "title": "Data Howardcounty",
   "description": "Howard County Open Data (opendata.howardcountymd.gov) Socrata MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-howardcounty",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-howardcounty",

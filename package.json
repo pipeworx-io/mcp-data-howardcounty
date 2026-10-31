@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-howardcounty",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Howard County Open Data (opendata.howardcountymd.gov) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-howardcounty",
     "gatewaySlug": "data-howardcounty",
-    "sourceHash": "v1-a1f0e2cb4cb266cb23fcb88467e4073c7013c169c184fa93286367ab60e17872",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-06112bd593250ed9195dad39896601d84961bd3c27882ad90486a876a00d8abf",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
